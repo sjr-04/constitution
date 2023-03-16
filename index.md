@@ -18,15 +18,15 @@
 > 
 > [...]
 > 
+> Until the people have, by some solemn and authoritative act, annulled or changed the established form, it is binding upon themselves collectively, as well as individually; and no presumption, or even knowledge, of their sentiments, can warrant their representatives in a departure from it, prior to such an act.
+> 
+> [...]
+>
 > That **inflexible** and **uniform adherence** to the rights of the Constitution, and of individuals, which we perceive to be indispensable in the courts of justice, can certainly not be expected from judges who hold their offices by a temporary commission. Periodical appointments, however regulated, or by whomsoever made, would, in some way or other, be fatal to their necessary independence. [emphasis added]
 
 \- Alexander Hamilton, [*The Federalist* No. 78 (1788)](https://avalon.law.yale.edu/18th_century/fed78.asp)
 
 > The basis of our political systems is the right of the people to make and to alter their constitutions of government. But the Constitution which at any time exists, till changed by an explicit and authentic act of the whole people, is sacredly obligatory upon all. The very idea of the power and the right of the people to establish government presupposes the duty of every individual to obey the established government. 
-> 
-> [...]
-> 
-> Until the people have, by some solemn and authoritative act, annulled or changed the established form, it is binding upon themselves collectively, as well as individually; and no presumption, or even knowledge, of their sentiments, can warrant their representatives in a departure from it, prior to such an act.
 > 
 > [...]
 > 
