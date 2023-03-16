@@ -53,7 +53,7 @@
 
 ---
 
-As you can see, the Founding Fathers themselves were what we today called "originalists." They believed in interpreting texts as they were understood when first adopted. Many anti-originalists love citing Thomas Jefferson as a proponent of the "living Constitution," the Darwinian theory that started under Woodrow Wilson, and has since been the dogma of the Left ever since.
+As you can see, the Founding Fathers themselves were what we today call "originalists." They believed in interpreting texts as they were understood when first adopted. Many anti-originalists love citing Thomas Jefferson as a proponent of the "living Constitution," the Darwinian theory that started under Woodrow Wilson, and has been the dogma of the Left ever since.
 
 Thomas Jefferson once said that the Earth belonged to the living.
 
