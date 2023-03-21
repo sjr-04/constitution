@@ -1,6 +1,6 @@
-
-
-### The Constitution of the United States of America is fixed. The Constitution "says what it says, and doesn't say what it doesn't say." - Antonin Scalia
+### The Constitution Is Fixed
+<sup>"The Constitution is not a living organism. It is a legal document, and it says what it says and doesn't say what it doesn't say."
+— Antonin Scalia</sup>
 
 ---
 
@@ -48,9 +48,17 @@
 
 \- Thomas Jefferson, in a [letter to his Supreme Court nominee and Justice William Johnson (1823)](https://founders.archives.gov/documents/Jefferson/98-01-02-3562)
 
+> [I]t is still certain that tho’ written constitutions may be violated in moments of passion or delusion, yet they furnish a text to which those who are watchful may again rally & recall the people: they fix too for the people principles for their political creed.
+
+\- Thomas Jefferson, [*To Joseph Priestley* (1802)](https://founders.archives.gov/documents/Jefferson/01-37-02-0515)
+
 > ... I entirely concur in the propriety of resorting to the sense in which the Constitution was accepted and ratified by the nation. In that sense alone it is the legitimate Constitution. And if that be not the guide in expounding it, there can be no security for a consistent and stable, more than for a faithful exercise of its powers. If the meaning of the text be sought in the changeable meaning of the words composing it, it is evident that the shape and attributes of the Government must partake of the changes to which the words and phrases of all living languages are constantly subject. What a metamorphosis would be produced in the code of law if all its ancient phraseology were to be taken in its modern sense.
 
 \- James Madison, [*To Henry Lee* (1824)](https://founders.archives.gov/documents/Madison/04-03-02-0333)
+
+> In the exposition of laws, & even of Constitutions, how many important errors, may be produced by mere innovations in the use of words & phrases, if not controuled by a recurrence to the original and authentic meaning attached to them.
+
+\- James Madison in a [letter to Sherman Converse (1826)](https://founders.archives.gov/documents/Madison/99-02-02-0630)
 
 ---
 
