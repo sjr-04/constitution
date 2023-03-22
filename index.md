@@ -44,13 +44,13 @@
 
 \- Thomas Jefferson, [*To Providence Citizens* (1801)](https://founders.archives.gov/documents/Jefferson/01-33-02-0410)
 
-> [O]n every question of construction, carry ourselves back to the time when the Constitution was adopted, recollect the spirit manifested in the debates, and instead of trying what meaning may be squeezed out of the text, or invented against it, conform to the probable one in which it was past.
-
-\- Thomas Jefferson, in a [letter to his Supreme Court nominee and Justice William Johnson (1823)](https://founders.archives.gov/documents/Jefferson/98-01-02-3562)
-
 > [I]t is still certain that tho’ written constitutions may be violated in moments of passion or delusion, yet they furnish a text to which those who are watchful may again rally & recall the people: they fix too for the people principles for their political creed.
 
 \- Thomas Jefferson, [*To Joseph Priestley* (1802)](https://founders.archives.gov/documents/Jefferson/01-37-02-0515)
+
+> [O]n every question of construction, carry ourselves back to the time when the Constitution was adopted, recollect the spirit manifested in the debates, and instead of trying what meaning may be squeezed out of the text, or invented against it, conform to the probable one in which it was past.
+
+\- Thomas Jefferson, in a [letter to his Supreme Court nominee and Justice William Johnson (1823)](https://founders.archives.gov/documents/Jefferson/98-01-02-3562)
 
 > ... I entirely concur in the propriety of resorting to the sense in which the Constitution was accepted and ratified by the nation. In that sense alone it is the legitimate Constitution. And if that be not the guide in expounding it, there can be no security for a consistent and stable, more than for a faithful exercise of its powers. If the meaning of the text be sought in the changeable meaning of the words composing it, it is evident that the shape and attributes of the Government must partake of the changes to which the words and phrases of all living languages are constantly subject. What a metamorphosis would be produced in the code of law if all its ancient phraseology were to be taken in its modern sense.
 
