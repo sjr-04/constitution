@@ -40,7 +40,7 @@
 
 \- James Wilson, *Of the Study of Law in the United States* (1791)
 
-> The constitution, on which our Union rests, shall be administered by me according to the safe and honest meaning contemplated by the plain understanding of the people of the United states at the time of it’s adoption
+> The constitution, on which our Union rests, shall be administered by me according to the safe and honest meaning contemplated by the plain understanding of the people of the United states at the time of it’s adoption: a meaning to be found in the explanations of those who advocated, not of those who opposed it, and who opposed it merely lest the constructions should be applied which they denounced as possible.
 
 \- Thomas Jefferson, [*To Providence Citizens* (1801)](https://founders.archives.gov/documents/Jefferson/01-33-02-0410)
 
