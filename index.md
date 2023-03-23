@@ -21,7 +21,7 @@
 > 
 > [...]
 > 
-> Until the people have, by some solemn and authoritative act, annulled or changed the established form, it is binding upon themselves collectively, as well as individually; and no presumption, or even knowledge, of their sentiments, can warrant their representatives in a departure from it, prior to such an act.
+> Until **the people** have, by some **solemn and authoritative act**, annulled or changed the established form [of government], **it is binding upon themselves collectively, as well as individually; and no presumption, or even knowledge, of their sentiments, can warrant their representatives in a departure from it**, prior to such an act. [emphasis added]
 > 
 > [...]
 >
@@ -29,11 +29,11 @@
 
 \- Alexander Hamilton, [*The Federalist* No. 78 (1788)](https://avalon.law.yale.edu/18th_century/fed78.asp)
 
-> The basis of our political systems is the right of the people to make and to alter their constitutions of government. But the Constitution which at any time exists, till changed by an explicit and authentic act of the whole people, is sacredly obligatory upon all. The very idea of the power and the right of the people to establish government presupposes the duty of every individual to obey the established government. 
+> The basis of our political systems is the right of the people to make and to alter their constitutions of government. **But the Constitution which at any time exists, till changed by an explicit and authentic act of the whole people, is sacredly obligatory upon all**. The very idea of the power and the right of the people to establish government presupposes the duty of every individual to obey the established government. [emphasis added]
 > 
 > [...]
 > 
-> If, in the opinion of the people, the distribution or modification of the constitutional powers be in any particular wrong, let it be corrected by an amendment in the way which the Constitution designates. But let there be no change by usurpation; for though this, in one instance, may be the instrument of good, it is the customary weapon by which free governments are destroyed.
+> If, in the opinion of the people, the distribution or modification of the constitutional powers be in any particular wrong, let it be corrected by an amendment in the way which the Constitution designates. **But let there be no change by usurpation; for though this, in one instance, may be the instrument of good, it is the customary weapon by which free governments are destroyed**. [emphasis added]
 
 \- George Washington, [*The Address of Gen. Washington to the People of America on His Declining the Presidency of the United States* (1796)](https://avalon.law.yale.edu/18th_century/washing.asp)
 
