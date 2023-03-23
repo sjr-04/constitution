@@ -1,3 +1,4 @@
+
 ### The Constitution Is Fixed
 <sup>"The Constitution is not a living organism. It is a legal document, and it says what it says and doesn't say what it doesn't say."
 — Antonin Scalia</sup>
@@ -40,7 +41,7 @@
 
 \- James Wilson, *Of the Study of Law in the United States* (1791)
 
-> The constitution, on which our Union rests, shall be administered by me according to the safe and honest meaning contemplated by the plain understanding of the people of the United states at the time of it’s adoption: a meaning to be found in the explanations of those who advocated, not of those who opposed it, and who opposed it merely lest the constructions should be applied which they denounced as possible.
+> The constitution, on which our Union rests, **shall be administered by me according to the safe and honest meaning contemplated by the plain understanding of the people of the United states at the time of it’s adoption**: a meaning to be found in the explanations of those who advocated, not of those who opposed it, and who opposed it merely lest the constructions should be applied which they denounced as possible. [emphasis added]
 
 \- Thomas Jefferson, [*To Providence Citizens* (1801)](https://founders.archives.gov/documents/Jefferson/01-33-02-0410)
 
@@ -82,7 +83,7 @@ You might hear from people on the Left that the Constitution just says whatever 
 * rotating judges' seats with those in lower courts
     * Again, this is to give activist judges in lower courts the opportunity to be on the highest court of the land. And it would be weird for judges from lower courts now in the higher court to be presented with cases in the higher court that they haven't yet touched.
 
-It's almost like these people read *The Federalist* No. 78 and are doing the exact opposite of everything that Alexander Hamilton said. Judges should serve for life because insulation from the democratic process is essential to their independence? Nah, let's integrate them *into* the democratic process. Judges should only exercise judgment, and not will? Nah, let's appoint judges who will exercise *our* will.
+It's almost like these people read [*The Federalist* No. 78](https://avalon.law.yale.edu/18th_century/fed33.asp) and are doing the exact opposite of everything that Alexander Hamilton said. Judges should serve for life because insulation from the democratic process is essential to their independence? Nah, let's integrate them *into* the democratic process. Judges should only exercise judgment, and not will? Nah, let's appoint judges who will exercise *our* will.
 
 The Left can't get what they want through democratic means, so they rely on unelected judges to impose their will on the entire Nation. You see -- the United States are a constitutional federal republic. That means there isn't a single central government with all the power; a unitary state, in other words. The central (federal) government is given certain powers, which are spelled out in the Constitution. Those are the powers given to it by the people and the several States. The federal government may exercise only the powers granted to it by the Constitution. Nothing more. The exercise of powers not granted by the Constitution "will be merely acts of usurpation and will deserve to be treated as such" (Hamilton, [*The Federalist* No. 33](https://avalon.law.yale.edu/18th_century/fed33.asp)). The rest of the powers are retained by the States and the people. Now, while we can, at least nominally, govern ourselves, there are some limitations that We the People can prescribe in the Constitution and have prescribed throughout the history of our Republic, such as forbidding "law[s] ... abridging the freedom of speech," or laws that infringe on "the right of the people to keep and bear Arms," or laws that violate "[t]he right of the people to be secure ... from unreasonable searches and seizures," and so on and so forth.
 
